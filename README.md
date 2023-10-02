@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💼 I’m currently working as a <strong>Full Stack Developer</strong> at Flippad.<br> <br>📚 I'm currently learning <strong>Swift</strong> to build apps for <strong>Apple Vision Pro</strong>.<br><br>⛰️ In my free time I love to <strong>travel</strong> and <strong>discover new places</strong>.</p>
+<p align="left">💼 I’m currently working as a <strong>Full Stack Developer</strong> at Digital Asset Solutions.<br> <br>📚 I'm currently learning <strong>Swift</strong> to build apps for <strong>Apple Vision Pro</strong>.<br><br>⛰️ In my free time I love to <strong>travel</strong> and <strong>discover new places</strong>.</p>
 
 ###
 
