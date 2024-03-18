@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💼 I’m currently working as a <strong>Full Stack Developer</strong> at Digital Asset Solutions.<br> <br>📚 I'm currently learning <strong>Swift</strong> to build apps for <strong>Apple Vision Pro</strong>.<br><br>⛰️ In my free time I love to <strong>travel</strong> and <strong>discover new places</strong>.</p>
+<p align="left">💼 I’m currently working as a <strong>Full Stack Developer</strong> at Digital Asset Solutions.<br> <br>📚 I'm currently improving my <strong>TDD</strong> and <strong>Hexagonal Architecture</strong> knowledge to improve my work.<br><br>⛰️ In my free time I love to <strong>travel</strong> and <strong>discover new places</strong>.</p>
 
 ###
 
@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/rust/3776AB" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
