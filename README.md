@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💼 I’m currently working as a <strong>Full Stack Developer</strong> at Digital Asset Solutions.<br> <br>📚 I'm currently improving my <strong>TDD</strong> and <strong>Hexagonal Architecture</strong> knowledge to improve my work.<br><br>⛰️ In my free time I love to <strong>travel</strong> and <strong>discover new places</strong>.</p>
+<p align="left">💼 I’m currently working as a <strong>Full Stack Developer</strong> at Sopra Steria.<br> <br>📚 I'm currently improving my <strong>TDD</strong> and <strong>Hexagonal Architecture</strong> knowledge to improve my work.<br><br>⛰️ In my free time I love to <strong>travel</strong> and <strong>discover new places</strong>.</p>
 
 ###
 
