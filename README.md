@@ -40,8 +40,6 @@
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
